@@ -8,7 +8,8 @@ Becoming the Best Restaurant: Text Analysis Based on Yelp Reviews
 - Run _01-EDA-and-Tokenize-Vectorization.ipynb_ in the root directory for EDA and vectorization process.
 - Run _02-Clustering.ipynb_ to see unsupervised clustering results.
 - After getting the clustering key words, we manually labeled the data in _Label sheets - Sheet1.csv_
-- Run _03-Label-by-Classification-Models.ipynb_ for automatic labeling.
+- Run _03-Label-by-Classification-Models.ipynb_ for automatic labeling, generating _aspect_df.csv_ for the next step.
+- Run _04-Regression-and-Feature-Importances.ipynb_ to see the importance and gain for each aspect.
 
 ## Problem Statement
 Given a set of yelp rates and comment texts for restaurants collected on the yelp platform, we would like to determine the most representative features based on reviews and how they affect the rating scores for the restaurants. The results will let restaurant owners know their advantages and disadvantages and advise them to increase their chances of making profits.  
