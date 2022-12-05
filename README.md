@@ -1,6 +1,12 @@
 # text-analysis-yelp
 Becoming the Best Restaurant: Text Analysis Based on Yelp Reviews
 
+## How to run the code?
+- Download json files on [Yelp Dataset](https://www.yelp.com/dataset).
+> Recommend using Jupyter Notebook in the following steps for better data visualization.
+- Run _data-preparation/Read Review.ipynb_ **FIRST**.
+- Run the _ipynb_ files in the root directory.
+
 ## Problem Statement
 Given a set of yelp rates and comment texts for restaurants collected on the yelp platform, we would like to determine the most representative features based on reviews and how they affect the rating scores for the restaurants. The results will let restaurant owners know their advantages and disadvantages and advise them to increase their chances of making profits.  
 
