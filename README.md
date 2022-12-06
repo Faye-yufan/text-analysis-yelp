@@ -1,5 +1,5 @@
 # text-analysis-yelp
-Becoming the Best Restaurant: Text Analysis Based on Yelp Reviews
+Becoming the Best Restaurant: Text Analysis Based on Yelp Reviews  
 Contributors: Aoxuan Ma, Linbo Chen, Tingxu Chen, Yixin Tao, Yufan Fei
 
 ## How to get the code to show the identical result?
